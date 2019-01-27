@@ -14,7 +14,10 @@ struct valeur {
     float mUnitaire, mTotale;
 };
 int nbart, munit, nb;
-
+void myPause()
+{
+  
+}
 int main(int argc, const char * argv[]) {
 
     // Allocation dynamique du nombre de fois
@@ -58,6 +61,7 @@ int main(int argc, const char * argv[]) {
         std::cout << "Marge totale : " << mTotale << std::endl;
         std::cout <<"- - - - - - - - - - - -" << std::endl;;
     }
+    system("PAUSE"); 
         delete [] val;
     return 0;
 }
