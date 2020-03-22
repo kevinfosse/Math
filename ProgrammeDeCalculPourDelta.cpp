@@ -2,7 +2,7 @@
 //  main.cpp
 //  new-delta
 //
-//  Created by Kevin Fosse on 03/01/2019.
+//  Created by  on 03/01/2019.
 //  Copyright © 2019 Kevin Fosse. All rights reserved.
 // Version non fini
 
