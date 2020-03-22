@@ -3,7 +3,7 @@
 //  new-delta
 //
 //  Created by  on 03/01/2019.
-//  Copyright © 2019 Kevin Fosse. All rights reserved.
+//  Copyright © 2019 . All rights reserved.
 // Version non fini
 
 #include <iostream>
